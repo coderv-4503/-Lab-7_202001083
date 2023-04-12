@@ -4,6 +4,8 @@
 
 # Section A
 
+![Screenshot 2023-04-12 223616](https://user-images.githubusercontent.com/99037272/231531684-fb515be8-44ba-41d5-987f-2d556f61d212.png)
+
 Equivalence Partitioning Test Cases:
 
 <table>
